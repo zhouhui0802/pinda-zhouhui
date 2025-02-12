@@ -11,13 +11,22 @@
         <module name="swagger_demo" />
         <module name="knife4j_demo" />
         <module name="myApp" />
+        <module name="dozer_demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pd-parent" target="1.8" />
+      <module name="pd-tools" target="1.8" />
+      <module name="pd-tools-swagger2" target="1.8" />
+      <module name="pinda-init" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dozer_demo" options="-parameters" />
       <module name="hello-spring-boot-starter" options="-parameters" />
       <module name="knife4j_demo" options="-parameters" />
+      <module name="pd-tools-swagger2" options="-parameters" />
       <module name="swagger_demo" options="-parameters" />
     </option>
   </component>
