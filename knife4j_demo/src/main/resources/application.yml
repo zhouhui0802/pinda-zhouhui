@@ -1,0 +1,16 @@
+server:
+  port: 7788
+zhouhui:
+  swagger:
+    enabled: true #是否启用swagger
+    # the writing of the grouping
+    docket:
+      user:
+        title: user module
+        base-package: com.zh.controller.user
+      menu:
+        title: menu module
+        base-package: com.zh.controller.menu
+    # the writing without grouping
+    #title: summary module
+    #base-package: com.zh.controller
