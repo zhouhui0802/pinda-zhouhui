@@ -12,6 +12,7 @@
         <module name="knife4j_demo" />
         <module name="myApp" />
         <module name="dozer_demo" />
+        <module name="hibernate-validator_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dozer_demo" options="-parameters" />
       <module name="hello-spring-boot-starter" options="-parameters" />
+      <module name="hibernate-validator_demo" options="-parameters" />
       <module name="knife4j_demo" options="-parameters" />
       <module name="pd-tools-swagger2" options="-parameters" />
       <module name="swagger_demo" options="-parameters" />
