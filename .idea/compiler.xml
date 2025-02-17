@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="swagger_demo" />
+        <module name="springevent_demo" />
         <module name="logback_demo" />
         <module name="dozer_demo" />
         <module name="hello-spring-boot-starter" />
