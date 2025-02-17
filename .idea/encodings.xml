@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/hibernate-validator_demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j_demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j_demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logback_demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logback_demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/myApp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/myApp/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pinda-init/pd-parent/src/main/java" charset="UTF-8" />
@@ -21,6 +23,8 @@
     <file url="file://$PROJECT_DIR$/pinda-init/pd-tools/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pinda-init/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pinda-init/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_logback_demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_logback_demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger_demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger_demo/src/main/resources" charset="UTF-8" />
   </component>

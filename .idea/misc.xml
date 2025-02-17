@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/dozer_demo/pom.xml" />
         <option value="$PROJECT_DIR$/hibernate-validator_demo/pom.xml" />
         <option value="$PROJECT_DIR$/antiSamy_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/logback_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_logback_demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
