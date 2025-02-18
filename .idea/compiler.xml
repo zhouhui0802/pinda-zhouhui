@@ -11,6 +11,7 @@
         <module name="springevent_demo" />
         <module name="logback_demo" />
         <module name="dozer_demo" />
+        <module name="jwt_demo" />
         <module name="hello-spring-boot-starter" />
         <module name="knife4j_demo" />
         <module name="springboot_logback_demo" />
