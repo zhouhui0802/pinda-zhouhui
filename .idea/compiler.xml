@@ -8,16 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="swagger_demo" />
-        <module name="springevent_demo" />
         <module name="logback_demo" />
-        <module name="dozer_demo" />
+        <module name="argumentResolver_demo" />
         <module name="jwt_demo" />
-        <module name="hello-spring-boot-starter" />
         <module name="knife4j_demo" />
-        <module name="springboot_logback_demo" />
         <module name="myApp" />
-        <module name="hibernate-validator_demo" />
         <module name="antiSamy_demo" />
+        <module name="springevent_demo" />
+        <module name="exceptionHandler_demo" />
+        <module name="dozer_demo" />
+        <module name="hello-spring-boot-starter" />
+        <module name="springboot_logback_demo" />
+        <module name="hibernate-validator_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,7 +32,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="antiSamy_demo" options="-parameters" />
+      <module name="argumentResolver_demo" options="-parameters" />
       <module name="dozer_demo" options="-parameters" />
+      <module name="exceptionHandler_demo" options="-parameters" />
       <module name="hello-spring-boot-starter" options="-parameters" />
       <module name="hibernate-validator_demo" options="-parameters" />
       <module name="knife4j_demo" options="-parameters" />
